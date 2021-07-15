@@ -1,2 +1,3 @@
 # Co-KonPILe
-README
+
+[Co-KoNPILe (ここんぱいる) - connpass](https://cokonpile.connpass.com/)
